@@ -11,7 +11,7 @@
   <li>🤖 <strong>AI-Powered Tools</strong> – Smart systems with image & text recognition (OCR, NLP)</li>
   <li>🌐 <strong>Web Applications</strong> – Full-stack apps using PHP, Node.js, React.js</li>
   <li>🎮 <strong>Games</strong> – Built with Godot Engine for PC and Android</li>
-  <li>🧩 <strong>Chrome Extensions</strong> – Tools like <em>Progres Algeria</em></li>
+  <li>🧩 <strong>Chrome Extensions</strong> – Tools like <em>Progress Algeria</em></li>
   <li>📱 <strong>Cross-Platform Software</strong> – Web & native-like apps for PC and Android</li>
 </ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bassetlamraoui&label=Profile%20views&color=0e75b6&style=flat" alt="bassetlamraoui" /> </p>
